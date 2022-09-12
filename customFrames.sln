@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "customFrames", "customFrames\customFrames.csproj", "{59434DE1-950C-4E44-A89F-D0C514BFF588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59434DE1-950C-4E44-A89F-D0C514BFF588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59434DE1-950C-4E44-A89F-D0C514BFF588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59434DE1-950C-4E44-A89F-D0C514BFF588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59434DE1-950C-4E44-A89F-D0C514BFF588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367751D6-6D12-488A-AE8C-4376DB7D0CE5}
+	EndGlobalSection
+EndGlobal
